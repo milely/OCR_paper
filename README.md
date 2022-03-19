@@ -19,4 +19,5 @@ Papers in the field of OCR(Continually updated)
 ## End-to-End text recogniton
 [DEER: Detection-agnostic End-to-End Recognizer for Scene Text Spotting](https://arxiv.org/pdf/2203.05122.pdf)(single point text spotting)  
 [SPTS: Single-Point Text Spotting](https://arxiv.org/abs/2112.07917)(single point text spotting)  
+## Document layout analysis
 
