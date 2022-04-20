@@ -6,6 +6,7 @@ Papers in the field of OCR(Continually updated)
 [Real-Time Scene Text Detection with Differentiable Binarizationand Adaptive Scale Fusion](https://arxiv.org/pdf/2202.10304.pdf)(DBNet++)  
 [FAST: Searching for a Faster Arbitrarily-Shaped Text Detector with Minimalist Kernel Representation](https://arxiv.org/pdf/2111.02394.pdf)(Fast)  
 ## Text Recognition
+[Pushing the Performance Limit of Scene Text Recognizer without Human Annotation](https://arxiv.org/pdf/2204.07714.pdf)(Semi-supervised)
 [Perceiving Stroke-Semantic Context: Hierarchical Contrastive Learning for Robust Scene Text Recognition](https://www.aaai.org/AAAI22Papers/AAAI-785.LiuH.pdf)(SSL)  
 [Text-DIAE: Degradation Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/pdf/2203.04814.pdf)(ssl pretrain encoder for text recogniton)  
 [Training Protocol Matters:Towards Accurate Scene Text Recognition via Training Protocol Searching](https://arxiv.org/pdf/2203.06696.pdf)(search training protocal)  
