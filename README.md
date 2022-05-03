@@ -1,11 +1,13 @@
 # OCR_paper
 Papers in the field of OCR(Continually updated)
 ## Text Detection
+[Vision-Language Pre-Training for Boosting Scene Text Detectors](https://arxiv.org/pdf/2204.13867.pdf)(ssl for text det)  
 [Few Could Be Better Than All:Feature Sampling and Grouping for Scene Text Detection](https://arxiv.org/pdf/2203.15221.pdf)(Transformer-based)  
 [Kernel Proposal Network for Arbitrary Shape Text Detection](https://arxiv.org/abs/2203.06410)(KPN)  
 [Real-Time Scene Text Detection with Differentiable Binarizationand Adaptive Scale Fusion](https://arxiv.org/pdf/2202.10304.pdf)(DBNet++)  
 [FAST: Searching for a Faster Arbitrarily-Shaped Text Detector with Minimalist Kernel Representation](https://arxiv.org/pdf/2111.02394.pdf)(Fast)  
 ## Text Recognition
+[SVTR: Scene Text Recognition with a Single Visual Model](https://arxiv.org/pdf/2205.00159.pdf)(Visual)  
 [Pushing the Performance Limit of Scene Text Recognizer without Human Annotation](https://arxiv.org/pdf/2204.07714.pdf)(Semi-supervised)  
 [Perceiving Stroke-Semantic Context: Hierarchical Contrastive Learning for Robust Scene Text Recognition](https://www.aaai.org/AAAI22Papers/AAAI-785.LiuH.pdf)(SSL)  
 [Text-DIAE: Degradation Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/pdf/2203.04814.pdf)(ssl pretrain encoder for text recogniton)  
