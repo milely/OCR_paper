@@ -28,3 +28,5 @@ Papers in the field of OCR(Continually updated)
 [SPTS: Single-Point Text Spotting](https://arxiv.org/abs/2112.07917)(single point text spotting)  
 ## Document layout analysis
 
+## Font Generation && Style Transfer
+[Look Closer to Supervise Better: One-Shot Font Generation via Component-Based Discriminator](https://arxiv.org/pdf/2205.00146.pdf)  
