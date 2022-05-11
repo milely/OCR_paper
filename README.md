@@ -1,12 +1,14 @@
 # OCR_paper
 Papers in the field of OCR(Continually updated)
 ## Text Detection
+[UNITS: UNSUPERVISED INTERMEDIATE TRAINING STAGE FOR SCENE TEXT DETECTION](https://arxiv.org/pdf/2205.04683.pdf)(ICME2022)  
 [Vision-Language Pre-Training for Boosting Scene Text Detectors](https://arxiv.org/pdf/2204.13867.pdf)(ssl for text det CVPR2022)  
 [Few Could Be Better Than All:Feature Sampling and Grouping for Scene Text Detection](https://arxiv.org/pdf/2203.15221.pdf)(Transformer-based)  
 [Kernel Proposal Network for Arbitrary Shape Text Detection](https://arxiv.org/abs/2203.06410)(KPN)  
 [Real-Time Scene Text Detection with Differentiable Binarizationand Adaptive Scale Fusion](https://arxiv.org/pdf/2202.10304.pdf)(DBNet++)  
 [FAST: Searching for a Faster Arbitrarily-Shaped Text Detector with Minimalist Kernel Representation](https://arxiv.org/pdf/2111.02394.pdf)(Fast)  
 ## Text Recognition
+[Multimodal Semi-Supervised Learning for Text Recognition](https://arxiv.org/pdf/2205.03873.pdf)(Multi-modal SSL)  
 [SVTR: Scene Text Recognition with a Single Visual Model](https://arxiv.org/pdf/2205.00159.pdf)(Visual ICJAI2022)  
 [Pushing the Performance Limit of Scene Text Recognizer without Human Annotation](https://arxiv.org/pdf/2204.07714.pdf)(Semi-supervised)  
 [Perceiving Stroke-Semantic Context: Hierarchical Contrastive Learning for Robust Scene Text Recognition](https://www.aaai.org/AAAI22Papers/AAAI-785.LiuH.pdf)(SSL)  
