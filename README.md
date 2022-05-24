@@ -34,3 +34,5 @@ Papers in the field of OCR(Continually updated)
 [Look Closer to Supervise Better: One-Shot Font Generation via Component-Based Discriminator](https://arxiv.org/pdf/2205.00146.pdf)  
 ## OCR Post Process（spell check）
 [General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining](https://arxiv.org/pdf/2203.10929.pdf)  
+## Paragraph Recognition
+[LexiconNet: An End-to-End Handwritten Paragraph Text Recognition System](https://arxiv.org/pdf/2205.11018.pdf)
