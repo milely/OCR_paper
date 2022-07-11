@@ -28,7 +28,7 @@ Papers in the field of OCR(Continually updated)
 [Towards the Unseen: Iterative Text Recognition by Distilling from Errors](https://arxiv.org/abs/2107.12081)(Feedback)  
 [Joint Visual Semantic Reasoning: Multi-Stage Decoder for Text Recognition](https://arxiv.org/abs/2107.12090)(Multi-Stage Decoder)  
 ## End-to-End text recogniton(Text Spotting)
-[PAN++:PAN++: Towards Efficient and Accurate End-to-End Spotting of Arbitrarily-Shaped Text](https://arxiv.org/pdf/2105.00405.pdf)(PANNet for Text Spotting)  
+[PAN++: Towards Efficient and Accurate End-to-End Spotting of Arbitrarily-Shaped Text](https://arxiv.org/pdf/2105.00405.pdf)(PANNet for Text Spotting)  
 [DEER: Detection-agnostic End-to-End Recognizer for Scene Text Spotting](https://arxiv.org/pdf/2203.05122.pdf)(single point text spotting)  
 [SPTS: Single-Point Text Spotting](https://arxiv.org/abs/2112.07917)(single point text spotting)  
 ## Document layout analysis
