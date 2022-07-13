@@ -39,3 +39,6 @@ Papers in the field of OCR(Continually updated)
 [General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining](https://arxiv.org/pdf/2203.10929.pdf)  
 ## Paragraph Recognition
 [LexiconNet: An End-to-End Handwritten Paragraph Text Recognition System](https://arxiv.org/pdf/2205.11018.pdf)
+## Mathematical Expression Recognition
+[CoMER: Modeling Coverage for Transformer-based Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2207.04410)  
+
