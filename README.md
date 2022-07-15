@@ -8,6 +8,7 @@ Papers in the field of OCR(Continually updated)
 [Real-Time Scene Text Detection with Differentiable Binarizationand Adaptive Scale Fusion](https://arxiv.org/pdf/2202.10304.pdf)(DBNet++)  
 [FAST: Searching for a Faster Arbitrarily-Shaped Text Detector with Minimalist Kernel Representation](https://arxiv.org/pdf/2111.02394.pdf)(Fast)  
 ## Text Recognition
+[Scene Text Recognition with Permuted Autoregressive Sequence Models](https://arxiv.org/pdf/2207.06966.pdf)(ABI-based)  
 [Reading and Writing: Discriminative and Generative Modeling for Self-Supervised Text Recognition](https://arxiv.org/pdf/2207.00193.pdf)(SSL)  
 [MaskOCR: Text Recognition with Masked Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311.pdf)(SSL for encoder and decoder)  
 [Multimodal Semi-Supervised Learning for Text Recognition](https://arxiv.org/pdf/2205.03873.pdf)(Multi-modal SSL)  
