@@ -44,4 +44,4 @@ Papers in the field of OCR(Continually updated)
 [LexiconNet: An End-to-End Handwritten Paragraph Text Recognition System](https://arxiv.org/pdf/2205.11018.pdf)
 ## Mathematical Expression Recognition
 [CoMER: Modeling Coverage for Transformer-based Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2207.04410)  
-
+[When Counting Meets HMER:Counting-Aware Network for Handwritten Mathematical Expression Recognition](https://arxiv.org/pdf/2207.11463.pdf)  
