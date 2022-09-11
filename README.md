@@ -1,6 +1,7 @@
 # OCR_paper
 Papers in the field of OCR(Continually updated)
 ## Text Detection
+[Zoom Text Detector](https://arxiv.org/abs/2209.03014)  
 [UNITS: UNSUPERVISED INTERMEDIATE TRAINING STAGE FOR SCENE TEXT DETECTION](https://arxiv.org/pdf/2205.04683.pdf)(ICME2022)  
 [Vision-Language Pre-Training for Boosting Scene Text Detectors](https://arxiv.org/pdf/2204.13867.pdf)(ssl for text det CVPR2022)  
 [Few Could Be Better Than All:Feature Sampling and Grouping for Scene Text Detection](https://arxiv.org/pdf/2203.15221.pdf)(Transformer-based)  
@@ -8,6 +9,8 @@ Papers in the field of OCR(Continually updated)
 [Real-Time Scene Text Detection with Differentiable Binarizationand Adaptive Scale Fusion](https://arxiv.org/pdf/2202.10304.pdf)(DBNet++)  
 [FAST: Searching for a Faster Arbitrarily-Shaped Text Detector with Minimalist Kernel Representation](https://arxiv.org/pdf/2111.02394.pdf)(Fast)  
 ## Text Recognition
+[Multi-Granularity Prediction for Scene Text Recognition](https://arxiv.org/pdf/2209.03592.pdf)(ECCV2022)  
+[Levenshtein OCR](https://arxiv.org/pdf/2209.03594.pdf)(ECCV2022)  
 [SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition](https://arxiv.org/pdf/2207.10256.pdf)(iregular text)  
 [Scene Text Recognition with Permuted Autoregressive Sequence Models](https://arxiv.org/pdf/2207.06966.pdf)(ABI-based)  
 [Reading and Writing: Discriminative and Generative Modeling for Self-Supervised Text Recognition](https://arxiv.org/pdf/2207.00193.pdf)(SSL)  
