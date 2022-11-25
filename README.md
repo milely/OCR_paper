@@ -38,7 +38,7 @@ Papers in the field of OCR(Continually updated)
 [DEER: Detection-agnostic End-to-End Recognizer for Scene Text Spotting](https://arxiv.org/pdf/2203.05122.pdf)(single point text spotting)  
 [SPTS: Single-Point Text Spotting](https://arxiv.org/abs/2112.07917)(single point text spotting)  
 ## Document layout analysis
-
+[Doc2Graph: a Task Agnostic Document Understanding Framework based on Graph Neural Networks](https://arxiv.org/pdf/2208.11168.pdf)(DOC2GRAPH)  
 ## Font Generation && Style Transfer
 [Look Closer to Supervise Better: One-Shot Font Generation via Component-Based Discriminator](https://arxiv.org/pdf/2205.00146.pdf)  
 ## OCR Post Process（spell check）
