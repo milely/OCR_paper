@@ -9,6 +9,7 @@ Papers in the field of OCR(Continually updated)
 [Real-Time Scene Text Detection with Differentiable Binarizationand Adaptive Scale Fusion](https://arxiv.org/pdf/2202.10304.pdf)(DBNet++)  
 [FAST: Searching for a Faster Arbitrarily-Shaped Text Detector with Minimalist Kernel Representation](https://arxiv.org/pdf/2111.02394.pdf)(Fast)  
 ## Text Recognition
+[Transferring General Multimodal Pretrained Models to Text Recognition](https://arxiv.org/pdf/2212.09297.pdf)(Pretrained Model)  
 [Multi-Granularity Prediction for Scene Text Recognition](https://arxiv.org/pdf/2209.03592.pdf)(ECCV2022)  
 [Levenshtein OCR](https://arxiv.org/pdf/2209.03594.pdf)(ECCV2022)  
 [SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition](https://arxiv.org/pdf/2207.10256.pdf)(iregular text)  
