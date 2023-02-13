@@ -1,6 +1,8 @@
 # OCR_paper
 Papers in the field of OCR(Continually updated)
 ## Text Detection
+[ADNet: Rethinking the Shrunk Polygon-Based Approach in Scene Text Detection](https://ieeexplore.ieee.org/document/9927333)(ADNet)(TMM)  
+[CBNet: A Plug-and-Play Network for Segmentation-based Scene Text Detection](https://arxiv.org/abs/2212.02340)(CBNet)  
 [Zoom Text Detector](https://arxiv.org/abs/2209.03014)  
 [UNITS: UNSUPERVISED INTERMEDIATE TRAINING STAGE FOR SCENE TEXT DETECTION](https://arxiv.org/pdf/2205.04683.pdf)(ICME2022)  
 [Vision-Language Pre-Training for Boosting Scene Text Detectors](https://arxiv.org/pdf/2204.13867.pdf)(ssl for text det CVPR2022)  
