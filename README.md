@@ -9,7 +9,7 @@ Papers in the field of OCR(Continually updated)
 [Few Could Be Better Than All:Feature Sampling and Grouping for Scene Text Detection](https://arxiv.org/pdf/2203.15221.pdf)(Transformer-based)  
 [Kernel Proposal Network for Arbitrary Shape Text Detection](https://arxiv.org/abs/2203.06410)(KPN)  
 [Real-Time Scene Text Detection with Differentiable Binarizationand Adaptive Scale Fusion](https://arxiv.org/pdf/2202.10304.pdf)(DBNet++)  
-[FAST: Searching for a Faster Arbitrarily-Shaped Text Detector with Minimalist Kernel Representation](https://arxiv.org/pdf/2111.02394.pdf)(Fast)  
+[FAST: Searching for a Faster Arbitrarily-Shaped Text Detector with Minimalist Kernel Representation](https://arxiv.org/pdf/2111.02394.pdf)[code](https://github.com/czczup/FAST)  
 ## Text Recognition
 [Transferring General Multimodal Pretrained Models to Text Recognition](https://arxiv.org/pdf/2212.09297.pdf)(Pretrained Model)  
 [Multi-Granularity Prediction for Scene Text Recognition](https://arxiv.org/pdf/2209.03592.pdf)(ECCV2022)  
