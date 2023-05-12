@@ -52,3 +52,7 @@ Papers in the field of OCR(Continually updated)
 ## Mathematical Expression Recognition
 [CoMER: Modeling Coverage for Transformer-based Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2207.04410)  
 [When Counting Meets HMER:Counting-Aware Network for Handwritten Mathematical Expression Recognition](https://arxiv.org/pdf/2207.11463.pdf)  
+## Table Releated
+[Revisiting Table Detection Datasets for Visually Rich Documents](https://arxiv.org/abs/2305.04833)  
+
+
