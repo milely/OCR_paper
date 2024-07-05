@@ -1,5 +1,9 @@
 # OCR_paper
 Papers in the field of OCR(Continually updated)
+## Document Analysis with multi-modal large language model
+[A Bounding Box is Worth One Token: Interleaving Layout and Text in a Large Language Model for Document Understanding](https://arxiv.org/pdf/2407.01976)  
+[MMLONGBENCH-DOC: Benchmarking Long-context Document Understanding with Visualizations](https://arxiv.org/pdf/2407.01523)  
+[DOCLLM: A LAYOUT-AWARE GENERATIVE LANGUAGE MODEL FOR MULTIMODAL DOCUMENT UNDERSTANDING](https://arxiv.org/pdf/2401.00908)  
 ## Text Detection
 [ADNet: Rethinking the Shrunk Polygon-Based Approach in Scene Text Detection](https://ieeexplore.ieee.org/document/9927333)(ADNet)(TMM)  
 [CBNet: A Plug-and-Play Network for Segmentation-based Scene Text Detection](https://arxiv.org/abs/2212.02340)(CBNet)  
@@ -56,5 +60,7 @@ Papers in the field of OCR(Continually updated)
 [When Counting Meets HMER:Counting-Aware Network for Handwritten Mathematical Expression Recognition](https://arxiv.org/pdf/2207.11463.pdf)  
 ## Table Releated
 [Revisiting Table Detection Datasets for Visually Rich Documents](https://arxiv.org/abs/2305.04833)  
+
+
 
 
